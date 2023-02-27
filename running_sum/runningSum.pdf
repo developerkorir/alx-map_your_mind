@@ -1,0 +1,8 @@
+Step 1: Start
+Step 2: Declare sum to 0
+Step 3: Read number x
+Step 4: IF x >= 0
+		Update sum = sum + x
+		GOTO step 3
+	ELSE
+		Print sum

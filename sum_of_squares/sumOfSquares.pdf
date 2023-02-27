@@ -1,0 +1,8 @@
+Step 1: Start
+Step 2: Read number n
+Step 3: Declare sum to 0 and i to 1 
+Step 4: Repeat steps 5 to 7 until i <= n
+Step 5: Read number num
+Step 6: update sum as sum = sum + num
+Step 7: increment i
+Step 8: Print sum

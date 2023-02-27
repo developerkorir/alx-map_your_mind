@@ -1,0 +1,11 @@
+Start.
+Accept three numbers from the user (x, y, z).
+IF x < y then goto step 4 ELSE goto step 8.
+IF a < z then goto step 5 ELSE goto step 7.
+IF y < z then goto step 9 ELSE goto step 6.
+Interchange y and c and goto step 9.
+Interchange x and c and goto step 3.
+Interchange x and y and goto step 3.
+Display “Ascending order”.
+Display x, y, z.
+Stop.
